@@ -11,5 +11,10 @@ public class PersonController {
 	{
 		return "hello world rami !!!!!";
 	}
+     @GetMapping("/persons/2")
+	public String helloWorlds()
+	{
+		return "bonjour!!!!!";
+	}
 
 }
