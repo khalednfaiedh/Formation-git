@@ -4,6 +4,6 @@ public class Person {
 
 	
 	private Long id;
-	private String name;
-    private String firstName;
+	private String nom;
+    private String prenon;
 }
